@@ -1,9 +1,10 @@
 # matrix-multiplication-Strassen-algorithm
 matrix multiplication using Strassen algorithm 
 # Project Description
-I have made a matrix multiplication in N faster way :arrow_up:,
-Using multithreading techniques :wink:
+:arrow_up:,I have made a matrix multiplication in N faster way, 
+:wink:, Using multithreading techniques 
 # Languages 
 C#
 # instructions
 you will find code at MatrixMultiplication.cs
+
